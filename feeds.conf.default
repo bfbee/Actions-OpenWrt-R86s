@@ -8,3 +8,4 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-link custom /usr/src/openwrt/custom-feed
 src-git passwall https://github.com/xiaorouji/openwrt-passwall;luci
 src-git passwall_dependence https://github.com/xiaorouji/openwrt-passwall
+src-git R86S-QuickInstaller https://github.com/R86S/R86S-QuickInstaller
